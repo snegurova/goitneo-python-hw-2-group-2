@@ -1,4 +1,4 @@
-from input_error import input_error
+from src.tools.input_error import input_error
 
 
 def parse_input(user_input):
